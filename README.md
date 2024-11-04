@@ -31,5 +31,5 @@ Practicing SpringBoot API's.
 **Themes:**
 - Library Book System
 - Store infromation of employees
-- Web store - Roles Admin - User
+- Web store (furniture) - Roles Admin - User
 - Statistics
